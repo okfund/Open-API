@@ -1,6 +1,6 @@
 # Base URL
 
-The base url of BHEX open API is: https://www.okf.com/openapi
+The base url of OKF open API is: https://www.okf.com/openapi
 
 # Public Options Endpoints
 
