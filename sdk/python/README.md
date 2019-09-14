@@ -1,7 +1,7 @@
-Welcome to OKF-Python
+Welcome to Bhex-Python
 ======================
 
-An official Python implementation of the lastest Open API for OKF.
+An official Python implementation of the lastest Open API for Bhex.
 
 Install
 -------

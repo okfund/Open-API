@@ -1,4 +1,4 @@
-# Web Socket Streams for okf.com (2019-08-12)
+# Web Socket Streams for OKF (2019-08-12)
 
 ## General WSS information
 
@@ -35,7 +35,7 @@
 
 ## Heartbeat
 
-The websocket server will send a `ping frame` regularly. If the websocket server does not receive a `pong frame` back from the connection within a 5 minute period, the connection will be disconnected.
+The websocket client will send a `ping frame` regularly. If the websocket server does not receive a `ping frame` back from the connection within a 5 minute period, the connection will be disconnected.
 
 * Request
 ```javascript
